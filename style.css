@@ -1,0 +1,93 @@
+html{
+    background: url(../images/code.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;    
+}
+div.fond_flou{
+    backdrop-filter: blur(1em) ;
+    padding: 0px 0px 50px; 
+    margin: 50px 200px 50px;
+}
+div.titre{
+    color: #00DD00;
+    text-align: center;
+    font-size: bold;
+    text-decoration: underline;
+}
+div.text1{
+    color: #00DD00;
+    padding: 0;
+    margin: 3px 100px 25px ;
+    text-align: left;
+}
+div.python_image{
+    text-align: center;
+}
+div.description{
+    text-align: center;
+    color: #00DD00;
+    font-style: italic;
+}
+div.titre2{
+    font-size: bold;
+    text-decoration: underline;
+    color: #00DD00;
+    font-style:inherit;
+    padding: 0;
+    margin: 3px 100px 25px ;
+}
+div.text2{
+    color: #00DD00;
+    padding: 0;
+    margin: 3px 100px 25px ;
+    text-align: left;
+}
+div.titre3{
+    font-size: bold;
+    text-decoration: underline;
+    color: #00DD00;
+    font-style:inherit;
+    padding: 0;
+    margin: 3px 100px 25px ;
+}
+div.text3{
+    color: #00DD00;
+    padding: 0;
+    margin: 3px 100px 25px ;
+    text-align: left;
+}
+div.image3{
+    text-align: center;
+}
+div.description2{
+    text-align: center;
+    color: #00DD00;
+    font-style: italic;
+}
+div.Réseaux{
+    text-align: center;
+    color: #00DD00;
+    font-size: bold;
+    text-decoration: underline;
+}
+div.tkt{
+    text-align: center;
+}
+div.plagiat{
+    color: #00DD00;
+    padding: 0;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+}
+a[href^="https"]::before {
+    color: #00DD00;
+}
+div.merde{
+    color: #00DD00;
+    font-style:italic;
+    padding: 1px 120px 1px; 
+    text-align: right;
+}
